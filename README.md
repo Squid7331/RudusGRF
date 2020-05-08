@@ -1,5 +1,5 @@
 # RudusGRF
-Graymap + Greater Bellare &amp; Greater Sanare magnified to improve Rudus farming on NovaRO.
+Gray map + Greater Bellare &amp; Greater Sanare magnified to improve Rudus farming on NovaRO.
 
 ![Screenshot](https://i.ibb.co/FHnfGrx/rudus.jpg) 
 
